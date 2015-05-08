@@ -1,0 +1,80 @@
+﻿/* CSS layout */
+#masthead {
+}
+#top_nav {
+}
+#container {
+	width: 1100px;
+}
+#innercontainer {
+	width: 650px;
+}
+#footer {
+	position: relative;
+}
+#leftcolumn {
+	width: 210px;
+	float: left;
+}
+#rightcolumn {
+	width: 440;
+	float: left;
+	position: relative;
+	display: table-cell;
+}
+#buttons {
+	width: 20px;
+	float: left;
+	vertical-align: bottom;
+}
+#pagecontent {
+	width: 650px;
+	float: left;
+	position: relative;
+}
+#articlecontent {
+	width:400px;
+	float:left;
+	position:relative
+}
+#pagebreak {
+	page-break-before:always
+}
+#seminarcity {
+	width: 200px;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+#seminardates {
+	width: 150px;
+	float: left;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: small;
+}
+#seminarlocation {
+	width: 150px;
+	float: left;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: small;
+}
+#formcontainer {
+	border: thin double #800000;
+}
+#menubox {
+	border-style: solid;
+	border-width: thin;
+	width: 200px;
+	position: fixed;
+	background-color: #D7FED6;
+	padding-left: 3px;
+	top: 0px;
+	right: 0px;
+	left: 0px;
+}
+#share-buttons img {
+width: 20px;
+padding: 5px;
+border: 0;
+display: inline;
+}
